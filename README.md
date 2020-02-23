@@ -1,3 +1,11 @@
+**Dieses Repository ist archiviert. 
+Aktuelle Version hier: https://github.com/ecocurious/insectcounter verfügbar.**
+
+
+---
+---
+---
+
 # InsectCounting Software Engineering Projekt Uni Saarland
 
 Bitte das ganze README lesen, bevor mit der Installation/Ausführung begonnen wird.
